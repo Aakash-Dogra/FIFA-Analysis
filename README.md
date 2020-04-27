@@ -66,3 +66,14 @@ This visual helps us to know about the number of players around the globe, with 
 ![](images/11.jpg)
 
 #### The motive behind executing these visualizations- to give an insight into data science and how different sectors’ information of our day to day life can be used to make unstructured data into beautiful illustrations. I believe that many more visualizations can be created using other libraries like dash, seaborn to create intearctive visuals that can help to undestand the data in a better way. I believe these visuals help you to understand the data in a better way and inspire you to perform exploratory analysis on any data you choose henceforth.
+
+#### References:
+- https://aakash-dogra.github.io/final_project/
+- https://plotly.com/python/creating-and-updating-figures/
+- https://stackoverflow.com/questions/19626530/python-xticks-in-subplots
+- https://pythonbasics.org/matplotlib-bar-chart/
+- https://towardsdatascience.com/the-power-of-visualization-in-data-science-1995d56e4208
+- https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0
+- https://community.plotly.com/t/filling-above-and-below/16994/2
+- https://plotly.com/python/text-and-annotations/
+

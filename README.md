@@ -9,7 +9,7 @@
 
 #### Before we set out to the see the different visualizations and illustrations of the data, we will understand the importance of visualization. It is often regarded as a skill that is taught to every entry-level data enthusiast, but in reality, it is something that is mastered only by a few! Data visualization, in general, is a pictorial or visual representation of data for making the number visually appealing. Or if we have to say this in the simplest manner, it is like giving kids a book with pictures to catch their attention!
 
-#### In this article, I have tried to portray my skills with data manipulation, analysing, cleaning and visualization with something I love the most: Football. To my readers in the United States, Football here refers to the actual game where the ball is kicked by foot, hence the name football. This dataset is actual ratings and stats of players all around the world who are involved in the digital game of FIFA, developed by EA. This game is played by millions all around the world and is something enjoyed by every gamer around the globe. I will try to visualize the stats that we generally see during the post-game talk, like the best players around the world, in terms of their attributes and value. Also, I would provide some suggestions, based on my analysis of the dataset. I hope you enjoy this visual journey and learn a few things on the way!
+#### In this article, I have tried to portray my skills with data manipulation, data analysis, data cleaning and data visualization with something I enjoy watching: Football. This dataset is actual ratings and stats of players all around the world involved in the digital game of FIFA, developed by EA. This game is played by millions around the globe and is enjoyed by every gamer. Here, I will try to visualize the stats that we generally see during the post-game discussions, like the best players around the world, in terms of their Attributes and Value. Also, I would provide some suggestions, based on my analysis of the dataset. I hope you enjoy this visual journey and learn a few things on the way!
 
 #### The dataset is originally scrapped from https://sofifa.com/, as scraping data from official FIFA website is not permitted. The data set consists of data of all the players around the world, their personal stats and their career information. The data is read using pandas library. The dataset looks like follows:
 
@@ -65,7 +65,13 @@ This visual helps us to know about the number of players around the globe, with 
 
 ![](images/11.jpg)
 
-#### The motive behind executing these visualizations- to give an insight into data science and how different sectors’ information of our day to day life can be used to make unstructured data into beautiful illustrations. I believe that many more visualizations can be created using other libraries like dash, seaborn to create intearctive visuals that can help to undestand the data in a better way. I believe these visuals help you to understand the data in a better way and inspire you to perform exploratory analysis on any data you choose henceforth.
+#### The motive behind executing these visualizations- to give an insight into data science and how different sectors’ information of our day to day life can be used to make unstructured data into beautiful illustrations. I believe that many more visualizations can be created using other libraries like dash, seaborn that can help to understand the data in a better way. I believe these visuals will inspire you to perform exploratory analysis on any data you choose henceforth. Also, several other parameters can be clustered together to create generic columns like "defender stats', 'Midfield Stats' ,'Attacker Stats', etc. This new data then can be used to visualize the club level data and understand the player attributes ina  far better way.
+
+#### In addition to this, predictions can be made for upcoming players (using Potential column) and can be suggested as a good option for signing in the forthcoming season in any league around the world. 
+
+#### The possibilities are enormous and can be as many as one can think of!
+
+#### I hope this interactive visualization of data has been 
 
 #### References:
 - https://aakash-dogra.github.io/final_project/
